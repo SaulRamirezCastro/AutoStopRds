@@ -10,7 +10,7 @@
        "rds:StopDBInstance",
        "rds:DescribeDBInstances"
      ],
-     "Resource": "arn:aws:logs:*:*:*",
+     "Resource": "*",
      "Effect": "Allow"
    }
  ]
